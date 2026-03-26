@@ -1,0 +1,42 @@
+Ashihs Raj
+B.Tech (Data Science) - 3rd Year Student
+Email: ashihsraj@email.com
+Phone: +91-00000-00000
+Location: Your City, India
+
+SUMMARY
+Motivated 3rd year Data Science undergraduate with a strong interest in analytics, machine learning, and solving real-world problems through data.
+
+SKILLS
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Data Visualization (Matplotlib, Seaborn)
+- Power BI
+- Git & GitHub
+
+EXPERIENCE
+Student Project Contributor | 2024 - Present
+- Built end-to-end data projects including analytics dashboards and machine learning models.
+- Performed data cleaning, feature engineering, and model evaluation.
+
+Data Science Intern (Virtual), Internship Program | 2025
+- Worked on exploratory data analysis and baseline predictive models.
+- Presented insights using visual reports and dashboards.
+
+EDUCATION
+- B.Tech in Data Science, Your College Name | 2023 - 2027 (3rd Year)
+- Class 12th, Your School Name | 2021 - 2023
+- Class 10th, Your School Name | 2019 - 2021
+
+PROJECTS
+- Student Performance Predictor
+- Sales Insights Dashboard
+- Movie Recommendation System
+
+CERTIFICATES
+- Data Science with Python - NPTEL
+- Machine Learning Foundations - Coursera
+- SQL for Data Analysis - HackerRank
